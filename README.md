@@ -21,21 +21,6 @@ To develop a machine learning–based web application that accurately predicts t
 
 ---
 
-## 📂 Dataset Description
-
-- **Source:** Kaggle / Cardekho used car data
-- **Records:** ~6,000–10,000
-- **Features:**
-  - Car Name / Brand
-  - Year of Manufacturing
-  - Fuel Type
-  - Transmission
-  - Kilometers Driven
-  - Ownership Type
-  - Selling Price (Target)
-
----
-
 ## 🔄 Data Preprocessing
 
 - Dropped irrelevant columns (e.g., car name string)
