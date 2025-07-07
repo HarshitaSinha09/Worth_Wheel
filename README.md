@@ -1,4 +1,4 @@
-# 🚗 Vehicle Valuation System
+# 🚗 Worth Wheel
 
 A machine learning–powered web application that predicts the market price of a used car based on various parameters like brand, fuel type, kilometers driven, ownership, and more. Built using **React**, **Node.js**, **Python (pandas, numpy, scikit-learn, matplotlib)**, and **SQL**.
 
